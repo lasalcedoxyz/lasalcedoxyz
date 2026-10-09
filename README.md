@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/luisalfonsosalcedoc/">LinkedIn</a>
 </p>
 
+### Stack
+![Static Badge](https://img.shields.io/badge/Figma?logo=figma)
+
 <!--
 **lasalcedoxyz/lasalcedoxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
