@@ -8,6 +8,7 @@
 </p>
 
 ### Stack
+![Static Badge](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=flat)
 ![Static Badge](https://img.shields.io/badge/Figma?logo=figma)
 
 <!--
