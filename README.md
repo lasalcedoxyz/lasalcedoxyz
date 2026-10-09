@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+<p align="center">
+  <a href="https://lasalcedo.xyz">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://x.com/lasalcedoxyz">X/Twitter</a> &nbsp;·&nbsp;
+  <a href="https://dribbble.com/lasacledoxyz">Dribbble</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/luisalfonsosalcedoc/">LinkedIn</a>
+</p>
+
 <!--
 **lasalcedoxyz/lasalcedoxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
